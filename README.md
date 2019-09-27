@@ -1,18 +1,21 @@
-# todo-backend-node-koa
+# Back-End: Todo with Tags
 
-Yet another [todo backend](http://todobackend.com) using Node.js with [Koa](https://koajs.com/).
+Tools involved:
+ * [Nodejs](https://nodejs.org/es/download/) 
+ * [Koajs](https://koajs.com/) Web Framework for Nodejs
+ * [MongoDB](https://www.mongodb.com) & [Mongoose](https://mongoosejs.com/) Data Persistence
 
-Originally created by [DurandA](https://github.com/DurandA/todo-backend-node-koa)
 
 ## Disclaimer
 
-This project is modified with academic purpose only
+This project was modified with academic purpose only. The initial code was got from [DurandA](https://github.com/DurandA/todo-backend-node-koa), under the owner's authorization.
+
+## Test
+
+Testing link [Test](http://todospecs.thing.zone/index.html?http://localhost:8080/v1)
 
 ## Usage
 
-```
-node todo-app.js 
+Academic development for Advance Sofware Engineering
 
-Data persistence with Mongo DB
-```
 
