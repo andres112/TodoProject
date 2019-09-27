@@ -1,0 +1,34 @@
+{
+  "name": "todo-backend-node-koa",
+  "version": "0.0.9",
+  "description": "Yet another [todo backend](http://todobackend.com) using Node.js with [Koa](https://koajs.com/). Modifications only with academic porpouses",
+  "main": "todo-app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DurandA/todo-backend-node-koa.git"
+  },
+  "author": "Arnaud Durand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DurandA/todo-backend-node-koa/issues"
+  },
+  "homepage": "https://github.com/DurandA/todo-backend-node-koa#readme",
+  "dependencies": {
+    "@koa/cors": "^2.2.2",
+    "dotenv": "^8.1.0",
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-helmet": "^5.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {
+    "koa-json": "^2.0.2",
+    "nodemon": "^1.19.2"
+  }
+}
