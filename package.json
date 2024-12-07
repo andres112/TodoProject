@@ -25,7 +25,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.7.1"
+    "mongoose": "^6.13.5"
   },
   "devDependencies": {
     "koa-json": "^2.0.2",
